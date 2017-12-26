@@ -5,6 +5,9 @@
     "node": true,
     "browser": true
   },
+  "globals": {
+    "wx": true
+  },
   "rules": {
     "yoda": 0,
     "semi": [2, "always"],
